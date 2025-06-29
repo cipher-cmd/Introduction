@@ -77,8 +77,8 @@
 
 ## 🌟 Featured Projects
 
-- **[FlashChat](https://github.com/cipher-cmd/flashchat)** – Real-time chat app with React & Supabase ([Live Demo](https://flashchat.vercel.app))
-- **[Dynamic Data Table Manager](https://github.com/cipher-cmd/datatable-manager)** – Next.js + Redux Toolkit, advanced data tables ([Live Demo](https://datatable-manager.vercel.app))
+- **[FlashChat](https://github.com/cipher-cmd/flashchat)** – Real-time chat app with React & Supabase ([Live Demo](https://flashchat-five.vercel.app/))
+- **[Dynamic Data Table Manager](https://github.com/cipher-cmd/datatable-manager)** – Next.js + Redux Toolkit, advanced data tables ([Live Demo](https://dynamic-data-table-mu.vercel.app/))
 
 ---
 
