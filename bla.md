@@ -1,19 +1,31 @@
-## 👋 Hi, I'm Syed Furqaan Andrabi
+<h1 align="center">Hi 👋, I'm Syed Furqaan Andrabi</h1>
+<h3 align="center">Full-Stack Web Developer | B.Tech CSE @ Amity University</h3>
 
-B.Tech Computer Science and Engineering student passionate about building scalable and modern web applications.  
-🔭 I work with React, Next.js, Node.js, Supabase, and cloud platforms like Vercel and AWS.  
-🌱 Always learning new technologies and UI/UX best practices.  
-💬 Let's connect and collaborate!
+<p align="center">
+  <a href="https://linkedin.com/in/sfurqan6">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cipher-cmd">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vercel.com/cipher-cmds-projects">
+    <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sfurqan6) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/cipher-cmd)
+## 🚀 About Me
+
+- 🧑‍💻 B.Tech Computer Science and Engineering student passionate about building scalable, modern web applications.
+- 🌱 Working with **React, Next.js, Node.js, Supabase, and TypeScript**.
+- 🛠️ Love creative UI/UX and dynamic data table management.
+- 💡 Always exploring new web technologies and best practices.
+- 🤝 Open to collaboration and hackathons.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 **Languages & Core:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -41,4 +53,42 @@ B.Tech Computer Science and Engineering student passionate about building scalab
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azurepipelines&logoColor=white)
+
+**UI/UX & Productivity:**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+- **[FlashChat](https://github.com/cipher-cmd/flashchat)** – Real-time chat app with React & Supabase ([Live Demo](https://flashchat.vercel.app))
+- **[Dynamic Data Table Manager](https://github.com/cipher-cmd/datatable-manager)** – Next.js + Redux Toolkit, advanced data tables ([Live Demo](https://datatable-manager.vercel.app))
+
+---
+
+## 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cipher-cmd&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cipher-cmd&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Tech Stack Flow
+
