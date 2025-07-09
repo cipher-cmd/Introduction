@@ -79,16 +79,3 @@
 
 - **[FlashChat](https://github.com/cipher-cmd/flashchat)** – Real-time chat app with React & Supabase ([Live Demo](https://flashchat-five.vercel.app/))
 - **[Dynamic Data Table Manager](https://github.com/cipher-cmd/datatable-manager)** – Next.js + Redux Toolkit, advanced data tables ([Live Demo](https://dynamic-data-table-mu.vercel.app/))
-
----
-
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cipher-cmd&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cipher-cmd&theme=darkhub&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Tech Stack Flow
-
